@@ -1,0 +1,16 @@
+
+html{
+    scroll-behavior: smooth !important;
+}
+
+
+
+
+
+#navbarSupportedContent a{
+    color: white !important;
+}
+
+.dropdown-li a{
+    color: #333;
+}
